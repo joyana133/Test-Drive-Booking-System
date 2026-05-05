@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\soare\\OneDrive - UCS College Group\\Level 4 Code\\TestDriveBookingSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{245D27B3-9AFD-469D-9FE4-BF4FFAF8F829}|TestDriveBookingSystem\\TestDriveBookingSystem.csproj|c:\\users\\soare\\onedrive - ucs college group\\level 4 code\\testdrivebookingsystem\\testdrivebookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{245D27B3-9AFD-469D-9FE4-BF4FFAF8F829}|TestDriveBookingSystem\\TestDriveBookingSystem.csproj|solutionrelative:testdrivebookingsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\soare\\OneDrive - UCS College Group\\Level 4 Code\\TestDriveBookingSystem\\TestDriveBookingSystem\\Program.cs",
+              "RelativeDocumentMoniker": "TestDriveBookingSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\soare\\OneDrive - UCS College Group\\Level 4 Code\\TestDriveBookingSystem\\TestDriveBookingSystem\\Program.cs",
+              "RelativeToolTip": "TestDriveBookingSystem\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-04T11:51:23.792Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
